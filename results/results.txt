@@ -1,0 +1,1 @@
+# Genererte figurer, tabeller og andre output-filer
