@@ -1,0 +1,11 @@
+Variable,dødfisk_pct,temp,tett_massekm2,ba_ano,for_pct,Modell
+dødfisk_pct,1.0,0.186,0.292,0.014,0.008,Lang_horisont_Modell_1
+temp,0.186,1.0,0.134,0.457,0.87,Lang_horisont_Modell_1
+tett_massekm2,0.292,0.134,1.0,-0.033,0.09,Lang_horisont_Modell_1
+ba_ano,0.014,0.457,-0.033,1.0,0.314,Lang_horisont_Modell_1
+for_pct,0.008,0.87,0.09,0.314,1.0,Lang_horisont_Modell_1
+dødfisk_pct,1.0,-0.015,0.365,-0.109,-0.142,Kort_horisont_Modell_5
+temp,-0.015,1.0,0.165,0.459,0.847,Kort_horisont_Modell_5
+tett_massekm2,0.365,0.165,1.0,-0.029,0.109,Kort_horisont_Modell_5
+ba_ano,-0.109,0.459,-0.029,1.0,0.294,Kort_horisont_Modell_5
+for_pct,-0.142,0.847,0.109,0.294,1.0,Kort_horisont_Modell_5
